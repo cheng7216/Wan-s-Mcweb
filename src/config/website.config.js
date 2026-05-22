@@ -199,8 +199,8 @@ export const websiteConfig = {
     // 页面显示的服务器地址
     displayAddress: "mc.ccmctech.top",
     // API请求使用的服务器地址（可以不同）
-    apiAddress: "mc.ccmctech.top",
-    //port: "",
+    apiAddress: "h1.getmc.cn",
+    port: "32576",
     version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
@@ -400,7 +400,7 @@ export const websiteConfig = {
           icon: "qqchat",
           buttonText: "加入 QQ 群",
           buttonType: "secondary",
-          url: "https://qm.qq.com/q/mVvrLcbLvU"
+          url: "https://qm.qq.com/q"
         },
         {
           title: "邮箱",
@@ -430,11 +430,8 @@ export const websiteConfig = {
       
       // 手动成员列表（当dataSource为"manual"时,或未获取到数据时生效）
       manualList: [
-        "EpiphanyEX",
-        "Bu_XiAo_Le",
-        "BIG_windows",
-        "XiaoHongya",
-        "lanbaicai01"
+        "minecraft_byc",
+        "haoxuebuoushuaya",
       ]
     }
   },
