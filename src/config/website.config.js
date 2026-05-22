@@ -200,7 +200,7 @@ export const websiteConfig = {
     displayAddress: "mc.ccmctech.top",
     // API请求使用的服务器地址（可以不同）
     apiAddress: "mc.ccmctech.top",
-    port: "",
+    //port: "",
     version: "1.21.11",
     apiEndpoint: "https://api.mcstatus.io/v2/status/java",
   },
@@ -329,10 +329,10 @@ export const websiteConfig = {
         icon: "information",
         items: [
           { label: "服务器类别", value: "物理机" },
-          { label: "CPU", value: "i9-13900kf" },
-          { label: "内存", value: "128GB DDR5" },  
+          { label: "CPU", value: "9950x3d" },
+          { label: "内存", value: "22GB DDR5" },  
           { label: "类型", value: "生存，生电，建筑" },
-          { label: "最大玩家", value: "100人" },
+          { label: "最大玩家", value: "2026人" },
           { label: "在线时间", value: "7X24小时" }
         ]
       },
